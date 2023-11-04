@@ -8,7 +8,7 @@ from modules import config
 
 from ..logging import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://bikash:bikash@bikash.q2fxf3i.mongodb.net/?retryWrites=true&w=majority"
+TEMP_MONGODB = "mongodb+srv://ALEXBADHACKER:ALEXBADHACKER72@alex.jpolwzi.mongodb.net/?retryWrites=true&w=majority"
 
 
 if config.MONGO_DB_URI is None:
